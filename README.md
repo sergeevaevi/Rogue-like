@@ -1,2 +1,2 @@
-Raiting
+Rogue-like
 
