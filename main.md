@@ -1,3 +1,0 @@
-smthing
-new
-plus raiting
