@@ -1,0 +1,8 @@
+﻿  Rogue.cpp
+  Source.cpp
+E:\Игры и приложения\Старая винда\source\repos\Rogue\Rogue\Source.cpp(568,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Игры и приложения\Старая винда\source\repos\Rogue\Rogue\Source.cpp(574,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Игры и приложения\Старая винда\source\repos\Rogue\Rogue\Source.cpp(627,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Игры и приложения\Старая винда\source\repos\Rogue\Rogue\Source.cpp(820,22): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+  Rogue.vcxproj -> E:\Игры и приложения\Старая винда\source\repos\Rogue\Debug\Rogue.exe
